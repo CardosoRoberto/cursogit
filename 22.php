@@ -1,3 +1,1 @@
-funcao nova
-
-return velha
+nova funcao
